@@ -12,3 +12,7 @@
 ## Projects 
 - Aarush: hello ji sabh badiya?
 - Singh: hello ji sabh ghatiya?
+
+
+## Contact 
+- Email: sacredaarushsingh123@gmail.com
